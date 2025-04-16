@@ -16,3 +16,11 @@
 pip install -r requirements.txt
 sudo apt install tor
 sudo systemctl start tor
+
+## Installation
+
+```bash
+git clone https://github.com/ajn590/Brute-Genie.git
+cd Brute-Genie
+pip install -r requirements.txt
+
